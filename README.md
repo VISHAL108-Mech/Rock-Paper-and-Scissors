@@ -30,6 +30,29 @@
 
 ## 👾 How to Play  
 - Clone the repository:  
-  ```bash
-  git clone https://github.com/your-username/RockPaperScissors.git
-  cd RockPaperScissors
+- bash
+- git clone https://github.com/VISHAL108-Mech/Rock-Paper-and-Scissors.git
+- cd RockPaperScissors
+- python rps.py
+
+---
+
+## 🌟 Future Enhancements
+- Add score tracking across multiple rounds
+- Build a GUI version using Tkinter or PyQt
+- Extend to multiplayer mode
+- Add unit tests for game logic
+
+---
+
+## 📈 Portfolio Value
+- Demonstrates ability to write clean, maintainable code
+- Showcases problem‑solving and logical thinking
+- Balances functionality with creativity
+- Serves as a foundation for larger projects
+
+---
+
+## 🧾 License
+- Licensed under the MIT License
+- Free to use, modify, and share
