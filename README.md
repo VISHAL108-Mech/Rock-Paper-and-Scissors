@@ -1,39 +1,35 @@
-🎮 Rock Paper Scissors Game
-A classic Rock, Paper, Scissors game implemented in Python. This project is more than just a fun console game — it’s a showcase of my ability to apply programming fundamentals, problem-solving, and creativity in building interactive applications.
+# 🎮 Rock Paper Scissors Game  
 
-✨ Why This Project Matters
-This repository demonstrates my skills in:
-Writing clean, structured Python code
-Designing interactive console applications
-Applying game logic and conditional flow
-Using randomization for unpredictability
-Handling user input and errors gracefully
-Adding ASCII art for creative UI
+## 📌 Project Highlights  
+- Console‑based Rock, Paper, Scissors game in Python  
+- ASCII art for visual representation of choices  
+- Randomized bot moves using `random` module  
+- User input validation and error handling  
+- Clear game logic to determine win, lose, or draw  
 
-📚 Topics Covered
-Python basics
-Control structures
-Random number generation
-String formatting & manipulation
-Defensive programming
-Console-based UI design
+---
 
-🕹️ How to Play
-Clone the repository:
-git clone https://github.com/your-username/RockPaperScissors.git
-cd RockPaperScissors
+## 🧑‍💻 Skills Showcased  
+- Python fundamentals: variables, conditionals, loops  
+- Control flow with `if`, `elif`, `else`  
+- Random number generation using `random.randint()`  
+- String formatting and manipulation  
+- Defensive programming with input validation  
+- Creative coding through ASCII art  
 
-Run the game:
-python rps.py
+---
 
-Enter your choice:
-1 for Rock
-2 for Paper
-3 for Scissors
-The bot will make its move, and the result will be displayed instantly.
+## 📚 Topics Covered  
+- Python basics  
+- User interaction via console input/output  
+- Randomization for unpredictability  
+- Error handling and graceful exits  
+- Console‑based UI design principles  
 
-🌟 Future Enhancements
-Add score tracking across multiple rounds
-Build a GUI version with Tkinter or PyQt
-Extend to multiplayer mode
-Add unit tests for game logic
+---
+
+## 👾 How to Play  
+- Clone the repository:  
+  ```bash
+  git clone https://github.com/your-username/RockPaperScissors.git
+  cd RockPaperScissors
